@@ -1,6 +1,6 @@
-# Game-Tic-Tac-Toe
+# React Weather App
 
-A classic game of Tic-Tac-Toe implemented using HTML, CSS, and JavaScript, providing an interactive and enjoyable gaming experience.
+This is a simple React app that shows the current weather for a given city.
 
 <br>
 
@@ -8,5 +8,20 @@ A classic game of Tic-Tac-Toe implemented using HTML, CSS, and JavaScript, provi
 
 
 # Technology Used
-React
+* React
+* Redux
+* OpenWeatherMap API
+
+# Installation
+1. Clone the repository to your local machine.
+2. Install the dependencies using `npm install` or `yarn install`.
+3. Run the app using `npm start` or `yarn start`.
+
+# Usage
+1. Enter the name of a city in the input field.
+2. Click the "Search" button.
+3. The current weather for the city will be displayed.
+
+
+
 
